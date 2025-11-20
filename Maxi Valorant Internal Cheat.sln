@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{5BCF7B06-453E-407C-AB44-8EE0DFBDF4B3}") = "Internal-Valorant", "Maxi Valorant Internal Cheat\Maxi Valorant Internal Cheat.vcxproj", "{BEBE16B6-081B-4E30-B83E-FA97B1EC0B40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEBE16B6-081B-4E30-B83E-FA97B1EC0B40}.Debug|x64.ActiveCfg = Debug|x64
+		{BEBE16B6-081B-4E30-B83E-FA97B1EC0B40}.Debug|x64.Build.0 = Debug|x64
+		{BEBE16B6-081B-4E30-B83E-FA97B1EC0B40}.Debug|x86.ActiveCfg = Debug|Win32
+		{BEBE16B6-081B-4E30-B83E-FA97B1EC0B40}.Debug|x86.Build.0 = Debug|Win32
+		{BEBE16B6-081B-4E30-B83E-FA97B1EC0B40}.Release|x64.ActiveCfg = Release|x64
+		{BEBE16B6-081B-4E30-B83E-FA97B1EC0B40}.Release|x64.Build.0 = Release|x64
+		{BEBE16B6-081B-4E30-B83E-FA97B1EC0B40}.Release|x86.ActiveCfg = Release|Win32
+		{BEBE16B6-081B-4E30-B83E-FA97B1EC0B40}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D37C7AC-3D9D-4C5B-B294-7837EBF344D3}
+	EndGlobalSection
+EndGlobal
